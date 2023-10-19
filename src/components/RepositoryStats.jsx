@@ -1,5 +1,5 @@
 import { View } from 'react-native';
-import StyledText from './StyleDText';
+import StyledText from './StyledText';
 
 const parseThousands = value => {
     return value >= 1000 ? `${Math.round(value / 100) / 10}k` : String(value)

@@ -1,5 +1,27 @@
 export default [
     {
+        id: 'kveramendi.dev',
+        fullName: 'kveramendi/react-native',
+        description: 'Build Mobile & Web Applications',
+        language: 'JavaScript',
+        forksCount: 2181,
+        stargazersCount: 16902,
+        ratingAverage: 0,
+        reviewCount: 0,
+        ownerAvatarUrl: 'https://avatars.githubusercontent.com/u/88339684?v=4'
+    },
+    {
+        id: 'rails.rails',
+        fullName: 'rails/rails',
+        description: 'Ruby on Rails',
+        language: 'Ruby',
+        forksCount: 18349,
+        stargazersCount: 45377,
+        ratingAverage: 100,
+        reviewCount: 2,
+        ownerAvatarUrl: 'https://avatars1.githubusercontent.com/u/4223?v=4'
+    },
+    {
         id: 'midudev.midu.dev',
         fullName: 'midudev/midu.dev',
         description: 'Blog de noticias sobre desarrollo',
@@ -21,17 +43,7 @@ export default [
         reviewCount: 4,
         ownerAvatarUrl: 'https://avatars2.githubusercontent.com/u/4060187?v=4'
     },
-    {
-        id: 'rails.rails',
-        fullName: 'rails/rails',
-        description: 'Ruby on Rails',
-        language: 'Ruby',
-        forksCount: 18349,
-        stargazersCount: 45377,
-        ratingAverage: 100,
-        reviewCount: 2,
-        ownerAvatarUrl: 'https://avatars1.githubusercontent.com/u/4223?v=4'
-    },
+
     {
         id: 'django.django',
         fullName: 'django/django',

@@ -1,5 +1,5 @@
 import { View, Image, StyleSheet } from 'react-native';
-import StyledText from './StyleDText';
+import StyledText from './StyledText';
 import theme from '../theme.js';
 
 const RepositoryItemHeader = ({ ownerAvatarUrl, fullName, description, language }) => (
